@@ -1,8 +1,4 @@
-.*
-!.gitignore
-!.gitmodules
-*~
-
-components/
-
-_site/
+_site
+.sass-cache
+Gemfile.lock
+*.gem
