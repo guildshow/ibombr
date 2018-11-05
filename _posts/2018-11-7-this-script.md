@@ -1,9 +1,9 @@
 ---
+layout: post
 title: 03.this函数
-permalink: "/docs/this-script/"
-note: this函数目前存疑，暂做记录.
-redirect_from: "/conduct/index.html"
-editable: false
+categories: [unity notes]
+tags: [unity, hello world, study, notes]
+description: this函数目前存疑，暂做记录.
 ---
 
 ## 03. this函数

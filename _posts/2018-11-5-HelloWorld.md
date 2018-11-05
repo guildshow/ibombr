@@ -1,9 +1,9 @@
 ---
+layout: post
 title: 01.hello world
-permalink: "/docs/HelloWorld/"
-note: 在Unity中编写Hello World出现的错误.
-redirect_from: "/conduct/index.html"
-editable: false
+categories: [unity notes]
+tags: [unity, hello world, study, notes]
+description: 在Unity中编写Hello World出现的错误.
 ---
 
 ## 01. Hello World

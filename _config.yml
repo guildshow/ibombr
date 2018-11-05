@@ -1,1 +1,33 @@
-theme: jekyll-theme-midnight
+# visit https://github.com/mojombo/jekyll/wiki/Configuration for more settings
+
+paginate: 10 # pagination based on number of posts
+paginate_path: "page:num"
+exclude: ["README.md"] # files to exclude
+highlighter: pygments
+markdown: kramdown
+disqus: guildshow
+google_analytics: 
+
+defaults:
+  -
+    scope:
+      path: "" # empty string for all files
+    values:
+      title: iBombr的Unity学习笔记
+
+description: me & my life.
+author: guildshow
+  name: guildshow
+  email: 
+  github: guildshow
+  twitter: guildshow
+  pinterest: 
+  linkedin: 
+  bio: 
+  email_md5: 
+
+rss_path: feed.xml
+categories_path: categories.html
+tags_path: tags.html
+
+BASE_PATH:
