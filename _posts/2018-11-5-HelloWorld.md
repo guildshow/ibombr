@@ -1,6 +1,7 @@
 ---
-layout: post
-title: 01.hello world
+layout: nil
+path: '/unity notes/:id'
+title: '01.hello world'
 categories: [unity notes]
 tags: [unity, hello world, study, notes]
 description: 在Unity中编写Hello World出现的错误.
