@@ -22,7 +22,7 @@ public class Player：MonoBehaviour {
 
 将这个脚本指定给场景中的任意一个游戏体，然后就可以在`Inspector`窗口中配置`Player`实例的`public`成员变量初始值了，为了显示方便，Unity会在编辑器中自动去掉前缀m_，如下图所示：
 
-![serialization](assets/media/serialization1.png)
+![serialization](/images/unity/serialization1.png)
 
 默认只有继承自MonoBehaviour的脚本才能序列化。如果是一个普通的C#类，需要使用添加System.Serializable属性才能序列化，如下所示。
 
