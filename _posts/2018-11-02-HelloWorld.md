@@ -3,7 +3,7 @@ layout: post
 title: '01.hello world'
 date:   2018-11-02 15:40:38 +0800
 categories: unity notes
-tags: [unity, hello world, study, notes]
+tags: unity, hello world, study, notes
 description: 在Unity中编写Hello World出现的错误.
 ---
 

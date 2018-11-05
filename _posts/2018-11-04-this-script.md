@@ -3,7 +3,7 @@ layout: post
 path: '/unity notes/:id'
 title: '03.this函数'
 categories: unity notes
-tags: [unity, hello world, study, notes]
+tags: unity, hello world, study, notes
 description: this函数目前存疑，暂做记录.
 ---
 

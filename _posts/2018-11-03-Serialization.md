@@ -3,7 +3,7 @@ layout: post
 path: '/unity notes/:id'
 title: '02.序列化'
 categories: unity notes
-tags: [unity, hello world, study, notes]
+tags: unity, hello world, study, notes
 description: Unity中的序列化功能.
 ---
 

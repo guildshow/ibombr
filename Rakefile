@@ -24,8 +24,8 @@ task :post do
     post.puts "layout: post"
     post.puts "title: \"#{title.gsub(/-/,' ')}\""
     post.puts "description: another new notes."
-    post.puts "category: "
-    post.puts "tags: []"
+    post.puts "category: unity notes"
+    post.puts "tags: unity, hello world, study, notes"
     post.puts "---"
   end
 end # task :post
