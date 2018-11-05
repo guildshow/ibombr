@@ -1,13 +1,11 @@
 ---
-layout: nil
+layout: post
 path: '/unity notes/:id'
 title: '03.this函数'
-categories: [unity notes]
+categories: unity notes
 tags: [unity, hello world, study, notes]
 description: this函数目前存疑，暂做记录.
 ---
-
-## 03. this函数
 
 this函数的使用方法，目前仍然存疑。
 

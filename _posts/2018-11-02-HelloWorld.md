@@ -1,13 +1,11 @@
 ---
-layout: nil
-path: '/unity notes/:id'
+layout: post
 title: '01.hello world'
-categories: [unity notes]
+date:   2018-11-02 15:40:38 +0800
+categories: unity notes
 tags: [unity, hello world, study, notes]
 description: 在Unity中编写Hello World出现的错误.
 ---
-
-## 01. Hello World
 
 开始学习Unity引擎相关的东西。
 

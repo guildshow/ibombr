@@ -1,13 +1,11 @@
 ---
-layout: nil
+layout: post
 path: '/unity notes/:id'
 title: '02.序列化'
-categories: [unity notes]
+categories: unity notes
 tags: [unity, hello world, study, notes]
 description: Unity中的序列化功能.
 ---
-
-## 02. 序列化
 
 在Unity中，配置一些角色属性数值的时候，可以直接在脚本中暴露出来，在场景中进行配置。以下为示例：
 
