@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Unity协程编程"
+title: "04.Unity协程编程"
 description: Unity中类似多线程处理的一种方式.
 category: unity notes
 tags: unity, hello world, study, notes
@@ -18,12 +18,12 @@ public class CoroTest：MonoBehaviour // 协程必须运行在MonoBehaviour对�
 {
 	void Start () {
 		Coroutine coro = StartCoroutine(DoSomethingDelay(1.5f)); // 必须使用StartCoroutine执行协程
-// Destroy(this.gameObject); 如果删除了当前游戏体，协程也会随着消失
-// StopAllCoroutines(); // 停止所有运行于当前MonoBehaviour的协程
-// StopCoroutine(coro); // 停止指定的协程
+		// Destroy(this.gameObject); 如果删除了当前游戏体，协程也会随着消失
+		// StopAllCoroutines(); // 停止所有运行于当前MonoBehaviour的协程
+		// StopCoroutine(coro); // 停止指定的协程
 		StartCoroutine(RunLoop());
 	}
-// 定义协程的函数体
+	// 定义协程的函数体
 	IEnumerator DoSomethingDelay(float sec){
       	yield return new WaitForSeconds(sec); // 等待
 		Debug.Log("运行");

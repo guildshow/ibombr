@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "预置体Prefab"
+title: "05.预置体Prefab"
 description: Prefab是Unity开发中的重要元素，主要用于Game Object的设置重用。
 category: unity notes
 tags: unity, hello world, study, notes
@@ -17,5 +17,6 @@ Prefab又称`预置体`，是Unity开发中的重要元素。因为Unity中的Ga
 1. 删除场景中的实例不会影响到Project窗口中的Prefab。
 2. 如果修改了场景中的实例，选择Inspector窗口右上角的`Prefab->Apply`，Project窗口中保存的Prefab则会自动同步到该修改结果。
 3. 如果修改了场景中的实例，选择Inspector窗口右上角的Prefab->Revert，则会返回到Prefab的设置。
+4. 如果修改了Prefab的某项设置，场景中的实例又没有修改过该项设置，场景中的实例则会自动同步到与Prefab相同的设置。
 
 此部分内容较为简单，不赘述。
