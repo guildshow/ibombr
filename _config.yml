@@ -13,7 +13,7 @@ defaults:
     scope:
       path: "" # empty string for all files
     values:
-      title: iBombr的Unity学习笔记
+      title: "iBombr的Unity学习笔记"
 
 description: me & my life.
 author: guildshow
