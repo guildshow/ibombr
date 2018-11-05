@@ -1,0 +1,1 @@
+rake post title="edit article name"
