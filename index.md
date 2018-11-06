@@ -11,9 +11,9 @@ Derek，游戏行业从业者，策划一枚。目前在学习Unity引擎的相�
 * iwanr文档：[<u>iwanr文档</u>](https://doc.iwanr.com)
 * 知乎日报: [<u>游戏人的关注点</u>](http://dudu.zhihu.com/circle/385823?utm_campaign=in_app_share&utm_medium=iOS&utm_source=copy)
 
-# 目录
+# Unity学习笔记
 
-以下为笔记目录
+以下为Derek的Unity学习笔记之目录：
 
 <ul>
   {% for post in site.posts %}
