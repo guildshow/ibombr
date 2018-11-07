@@ -15,7 +15,7 @@ tags: unity, hello world, study, notes
 
 ### 1.创建主角
 
-1.1 将`Prefab`预置体`Player.fbx`拖入`Hierarchy`窗口，创建主角飞船的游戏体；此时在`Scene`窗口中能够找到`Player`对应的实例；
+1.1 将飞船的模型文件`Player.fbx`拖入`Hierarchy`窗口，创建主角飞船的游戏体；此时在`Scene`窗口中能够找到`Player`对应的实例；
 
 1.2 调整游戏体`Player`的角度，在`Inspector`窗口将其在Y轴旋转180度；如下图：
 
@@ -27,7 +27,7 @@ tags: unity, hello world, study, notes
 
 2.2 双击脚本`Player.cs`将其打开，Unity会自动添加基本代码，示意如下：
 
-```C#
+```c#
 using System.Collections;
 using UnityEngine;
 
